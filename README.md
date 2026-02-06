@@ -1,7 +1,5 @@
  cs-learning-journey
  
- Jornada de Aprendizado em Ciência da Computação
-
 Este repositório documenta minha jornada de aprendizado em Ciência da Computação, com foco inicial em **Python**.
 
 O objetivo é consolidar fundamentos de programação por meio de estudos práticos, exercícios, anotações e pequenos projetos, mantendo tudo organizado e versionado no GitHub.
@@ -18,7 +16,6 @@ O objetivo é consolidar fundamentos de programação por meio de estudos práti
 - Estruturas de dados básicas
 - Exercícios práticos
 - Pequenos projetos
-
 
  Organização
 O conteúdo é organizado por linguagem e tema, começando por Python.
