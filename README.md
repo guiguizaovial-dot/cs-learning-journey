@@ -1,4 +1,5 @@
  cs-learning-journey
+ 
  Jornada de Aprendizado em Ciência da Computação
 
 Este repositório documenta minha jornada de aprendizado em Ciência da Computação, com foco inicial em **Python**.
